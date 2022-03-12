@@ -6,16 +6,15 @@
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
-   <POPUP w="800" x="296" flags="00000002" y="210" h="200" pid="0" iid="-1">
+   <POPUP w="800" x="1049" flags="00000002" y="196" h="200" pid="0" iid="-1">
     <PROPERTIES>
      <ITEM name="Message Column Width">671</ITEM>
      <ITEM name="ShowGrid">No</ITEM>
      <ITEM name="Source Column Width">100</ITEM>
-     <ITEM name="Time Column Width">120</ITEM>
      <ITEM name="Version">100</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="350" x="316" flags="00000032" y="230" h="200" pid="1" iid="-1">
+   <POPUP w="350" x="1069" flags="00000032" y="216" h="200" pid="1" iid="-1">
     <PROPERTIES>
      <ITEM name="Address Column Width">85</ITEM>
      <ITEM name="AutoResize">No</ITEM>
@@ -31,9 +30,6 @@
      <ITEM name="Watch Expression Column Width">85</ITEM>
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
-   </POPUP>
-   <POPUP w="695" x="1058" flags="00008001" y="89" h="459" pid="0" iid="5">
-    <PROPERTIES/>
    </POPUP>
   </PWI>
  </MODULE>
