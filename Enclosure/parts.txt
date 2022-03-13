@@ -1,0 +1,8 @@
+Coil
+wire code
+switches
+nobs
+Led bulb
+Box
+plate
+plug
