@@ -1,7 +1,6 @@
 Coil
 wire code
-temperature control switch
-on/off switch
+switches
 nobs
 Led bulb
 Box
