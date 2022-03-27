@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=pid.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=pid.SchDoc|FileName=sensor.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=pid.SchDoc|FileName=Triac.SchDoc|SheetNumber=1

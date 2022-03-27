@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Hot-Plate\PCB\PCB1.PcbDoc
 Date     : 3/26/2022
-Time     : 1:26:35 AM
+Time     : 1:08:43 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.22mm < 0.254mm) Between Pad Q2-1(109.093mm,118.618mm) on Multi-Layer And Pad Q2-2(110.363mm,118.618mm) on Multi-Layer 

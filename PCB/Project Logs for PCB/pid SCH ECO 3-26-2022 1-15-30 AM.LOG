@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO-226-AA New Footprint=ONSC-TO-92-3-29-11
+Change Component Comment: Designator=Q2 Old Comment=NPN New Comment=2N3904
+Change Pin Designator/Name:  Old Designator=Q2-3 Old Name=E New Designator =C New Name=1
+Change Pin Designator/Name:  Old Designator=Q2-1 Old Name=C New Designator =E New Name=3
