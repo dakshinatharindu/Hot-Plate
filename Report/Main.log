@@ -1,0 +1,1932 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.13)  7 MAY 2022 23:57
+entering extended mode
+**d:/Hot-Plate/Report/Main.tex
+(d:/Hot-Plate/Report/Main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt.cls
+Document Class: scrreprt 2021/11/13 v3.35 KOMA-Script document class (report)
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook-3.34.sty
+Package: scrlfile-hook-3.34 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 86.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 90.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 94.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 98.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line
+(LaTeX3)     108.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     118.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     198.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 199.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     216.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 217.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 218.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 221.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 224.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 225.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 228.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 231.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 259.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 267.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 272.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 286.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     299.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 312.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 323.
+
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+))) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+Skipping: [2021/05/01] Usage of raw or classic option list on input line 252.
+Applying: [0000/00/00] Usage of raw or classic option list on input line 368.
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Package scrreprt Info: You've used standard option `11pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=11pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=11pt' there
+(scrreprt)             instead of `11pt', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input line 2487.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt.clo
+File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
+Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count177
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1743.
+)
+\c@part=\count178
+\c@chapter=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 5717.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 5728.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 5728.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 5737.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 5747.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 5747.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 5757.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 5757.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 5768.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 5768.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 5778.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 5778.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6958.
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count185
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6974.
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count186
+Class scrreprt Info: Redefining `\numberline' on input line 7142.
+\bibindent=\dimen138
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count187
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count188
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip64
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box49
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count190
+\l__lipsum_a_int=\count191
+\l__lipsum_b_int=\count192
+
+LaTeX3 Info: Defining command \LipsumPar with sig. 'm' on line 175.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListStart with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListSurrounders with sig. 's+m+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSeparator with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemStart with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSeparator with sig.
+(LaTeX3)     's+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumDefault with sig. 'm' on line 214.
+
+
+LaTeX3 Info: Defining command \lipsum with sig. 'sO{\g_lipsum_default_range_tl
+(LaTeX3)     }o' on line 223.
+
+
+LaTeX3 Info: Defining command \unpacklipsum with sig.
+(LaTeX3)     'sO{\g_lipsum_default_range_tl }o' on line 225.
+
+
+LaTeX3 Info: Defining command \SetLipsumText with sig. 'm' on line 326.
+
+
+LaTeX3 Info: Defining command \SetLipsumLanguage with sig. 'm' on line 328.
+
+
+LaTeX3 Info: Defining command \setlipsum with sig. '+m' on line 357.
+
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks17
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count196
+\mult@box=\box50
+\multicol@leftmargin=\dimen150
+\c@unbalance=\count197
+\c@collectmore=\count198
+\doublecol@number=\count199
+\multicoltolerance=\count266
+\multicolpretolerance=\count267
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen155
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@gfirstbox=\box55
+\mult@firstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count268
+\c@columnbadness=\count269
+\c@finalcolumnbadness=\count270
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count271
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count272
+\lst@gtempboxa=\box96
+\lst@token=\toks18
+\lst@length=\count273
+\lst@currlwidth=\dimen159
+\lst@column=\count274
+\lst@pos=\count275
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count276
+\lst@lineno=\count277
+\lst@maxwidth=\dimen162
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count278
+\lst@skipnumbers=\count279
+\lst@framebox=\box97
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen163
+\captionmargin@=\dimen164
+\captionwidth=\dimen165
+\caption@tempdima=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+Package caption Info: KOMA-Script document class detected.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count280
+\c@continuedfloat=\count281
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count282
+\c@subtable=\count283
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen170
+\enit@toks=\toks19
+\enit@inbox=\box98
+\enit@count@id=\count284
+\enitdp@description=\count285
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count286
+\svg@box=\box99
+\c@svg@param@currpage=\count287
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen171
+\pgfutil@tempdimb=\dimen172
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box100
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\pgf@xd=\dimen181
+\pgf@yd=\dimen182
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count292
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+))) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen183
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen184
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count295
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count296
+\leftroot@=\count297
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count298
+\DOTSCASE@=\count299
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box101
+\strutbox@=\box102
+\big@size=\dimen185
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count300
+\c@MaxMatrixCols=\count301
+\dotsspace@=\muskip16
+\c@parentequation=\count302
+\dspbrk@lvl=\count303
+\tag@help=\toks28
+\row@=\count304
+\column@=\count305
+\maxfields@=\count306
+\andhelp@=\toks29
+\eqnshift@=\dimen186
+\alignsep@=\dimen187
+\tagshift@=\dimen188
+\tagwidth@=\dimen189
+\totwidth@=\dimen190
+\lineht@=\dimen191
+\@envbody=\toks30
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/media9\media9.sty
+Package: media9 2022/03/18 v1.24 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count307
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfbase.sty
+Package: pdfbase 2022/03/18 v0.54 driver independent access to low-level PDF features
+\g_pbs_page_int=\count308
+\g_pbs_oc_int=\count309
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+Package: ocgbase 2022/04/01 v0.21 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count310
+)
+\l_mix_poster_box=\box103
+\g_mix_wd_dim=\dimen192
+\g_mix_ht_dim=\dimen193
+\g_mix_dp_dim=\dimen194
+\g_mix_rmcnt_int=\count311
+\l_mix_viewcnt_int=\count312
+\g@mix@page@int=\count313
+\g_mix_resizeflag_int=\count314
+\l_mix_lineno_int=\count315
+
+LaTeX3 Info: Defining command \addmediapath with sig. 'm' on line 2329.
+
+\l_mix_pbtn_box=\box104
+
+LaTeX3 Info: Defining command \includemedia with sig. 'O{}mm' on line 2329.
+
+\g_mix_mbtncnt_int=\count316
+
+LaTeX3 Info: Defining command \mediabutton with sig. 'O{}m' on line 2329.
+
+\mix@btn@dim=\dimen195
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+)
+\csq@reset=\count318
+\csq@gtype=\count319
+\csq@glevel=\count320
+\csq@qlevel=\count321
+\csq@maxlvl=\count322
+\csq@tshold=\count323
+\csq@ltx@everypar=\toks32
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count324
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count325
+\c@listtotal=\count326
+\c@listcount=\count327
+\c@liststart=\count328
+\c@liststop=\count329
+\c@citecount=\count330
+\c@citetotal=\count331
+\c@multicitecount=\count332
+\c@multicitetotal=\count333
+\c@instcount=\count334
+\c@maxnames=\count335
+\c@minnames=\count336
+\c@maxitems=\count337
+\c@minitems=\count338
+\c@citecounter=\count339
+\c@maxcitecounter=\count340
+\c@savedcitecounter=\count341
+\c@uniquelist=\count342
+\c@uniquename=\count343
+\c@refsection=\count344
+\c@refsegment=\count345
+\c@maxextratitle=\count346
+\c@maxextratitleyear=\count347
+\c@maxextraname=\count348
+\c@maxextradate=\count349
+\c@maxextraalpha=\count350
+\c@abbrvpenalty=\count351
+\c@highnamepenalty=\count352
+\c@lownamepenalty=\count353
+\c@maxparens=\count354
+\c@parenlevel=\count355
+\blx@tempcnta=\count356
+\blx@tempcntb=\count357
+\blx@tempcntc=\count358
+\blx@maxsection=\count359
+\blx@maxsegment@0=\count360
+\blx@notetype=\count361
+\blx@parenlevel@text=\count362
+\blx@parenlevel@foot=\count363
+\blx@sectionciteorder@0=\count364
+\blx@entrysetcounter=\count365
+\blx@biblioinstance=\count366
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count367
+\c@maxcomprange=\count368
+\c@mincompwidth=\count369
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count370
+\c@savedafterword=\count371
+\c@annotator=\count372
+\c@savedannotator=\count373
+\c@author=\count374
+\c@savedauthor=\count375
+\c@bookauthor=\count376
+\c@savedbookauthor=\count377
+\c@commentator=\count378
+\c@savedcommentator=\count379
+\c@editor=\count380
+\c@savededitor=\count381
+\c@editora=\count382
+\c@savededitora=\count383
+\c@editorb=\count384
+\c@savededitorb=\count385
+\c@editorc=\count386
+\c@savededitorc=\count387
+\c@foreword=\count388
+\c@savedforeword=\count389
+\c@holder=\count390
+\c@savedholder=\count391
+\c@introduction=\count392
+\c@savedintroduction=\count393
+\c@namea=\count394
+\c@savednamea=\count395
+\c@nameb=\count396
+\c@savednameb=\count397
+\c@namec=\count398
+\c@savednamec=\count399
+\c@translator=\count400
+\c@savedtranslator=\count401
+\c@shortauthor=\count402
+\c@savedshortauthor=\count403
+\c@shorteditor=\count404
+\c@savedshorteditor=\count405
+\c@labelname=\count406
+\c@savedlabelname=\count407
+\c@institution=\count408
+\c@savedinstitution=\count409
+\c@lista=\count410
+\c@savedlista=\count411
+\c@listb=\count412
+\c@savedlistb=\count413
+\c@listc=\count414
+\c@savedlistc=\count415
+\c@listd=\count416
+\c@savedlistd=\count417
+\c@liste=\count418
+\c@savedliste=\count419
+\c@listf=\count420
+\c@savedlistf=\count421
+\c@location=\count422
+\c@savedlocation=\count423
+\c@organization=\count424
+\c@savedorganization=\count425
+\c@origlocation=\count426
+\c@savedoriglocation=\count427
+\c@origpublisher=\count428
+\c@savedorigpublisher=\count429
+\c@publisher=\count430
+\c@savedpublisher=\count431
+\c@language=\count432
+\c@savedlanguage=\count433
+\c@origlanguage=\count434
+\c@savedoriglanguage=\count435
+\c@pageref=\count436
+\c@savedpageref=\count437
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+\locallabelnumberwidth=\skip85
+\locallabelalphawidth=\skip86
+\localshorthandwidth=\skip87
+\localshortjournalwidth=\skip88
+\localshortserieswidth=\skip89
+\localshorttitlewidth=\skip90
+\localshortauthorwidth=\skip91
+\localshorteditorwidth=\skip92
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count438
+\c@textcitetotal=\count439
+\c@textcitemaxnames=\count440
+\c@biburlbigbreakpenalty=\count441
+\c@biburlbreakpenalty=\count442
+\c@biburlnumpenalty=\count443
+\c@biburlucpenalty=\count444
+\c@biburllcpenalty=\count445
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count446
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2021/12/06 v1.3f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count447
+\c@bbx:relatedtotal=\count448
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2021/12/06 v1.3f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count449
+\c@cbx@tempcntb=\count450
+\c@cbx@tempcntc=\count451
+\c@cbx@tempcntd=\count452
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count453
+\calc@Bcount=\count454
+\calc@Adimen=\dimen196
+\calc@Bdimen=\dimen197
+\calc@Askip=\skip93
+\calc@Bskip=\skip94
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count455
+\calc@Cskip=\skip95
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen198
+\ESO@tempdimb=\dimen199
+)
+\AM@pagewidth=\dimen256
+\AM@pageheight=\dimen257
+\AM@fboxrule=\dimen258
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count456
+\AM@pagebox=\box105
+\AM@global@opts=\toks33
+\AM@pagecnt=\count457
+\AM@toc@title=\toks34
+\c@AM@survey=\count458
+\AM@templatesizebox=\box106
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen259
+\Hy@linkcounter=\count459
+\Hy@pagecounter=\count460
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count461
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count462
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen260
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count463
+\Field@Width=\dimen261
+\Fld@charsize=\dimen262
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count464
+\c@Item=\count465
+\c@Hfootnote=\count466
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+)
+\Fld@listcount=\count467
+\c@bookmark@seq@number=\count468
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip96
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `listings' support loaded on input line 3131.
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+ (d:/Hot-Plate\Report\Main.aux)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+Package scrbase Info: activating english \contentsname on input line 107.
+Package scrbase Info: activating english \listfigurename on input line 107.
+Package scrbase Info: activating english \listtablename on input line 107.
+LaTeX Info: Redefining \microtypecontext on input line 107.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 107.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count469
+\scratchdimen=\dimen263
+\scratchbox=\box107
+\nofMPsegments=\count470
+\nofMParguments=\count471
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count472
+\MPscratchDim=\dimen264
+\MPnumerator=\count473
+\makeMPintoPDFobject=\count474
+\everyMPtoPDFconversion=\toks36
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(72.26999pt, 736.64186pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=689.04185pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-37.40001pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=15.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count475
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-01-09 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex))
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `Main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Main.bbl' not found.
+
+No file Main.bbl.
+Package biblatex Info: Reference section=0 on input line 107.
+Package biblatex Info: Reference segment=0 on input line 107.
+(C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring OFF on input line 107.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count476
+)
+LaTeX Info: Redefining \ref on input line 107.
+LaTeX Info: Redefining \pageref on input line 107.
+LaTeX Info: Redefining \nameref on input line 107.
+\@outlinefile=\write5
+\openout5 = `Main.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message adding:
+(scrreprt)             \usepackage{bookmark}
+(scrreprt)           before \begin{document} on input line 107.
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+ (C:\Users\USER\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count477
+)) (d:/Hot-Plate\Report\front.tex
+<ENTC.png, id=6, 1055.945pt x 371.3875pt>
+File: ENTC.png Graphic file (type png)
+<use ENTC.png>
+Package pdftex.def Info: ENTC.png  used on input line 6.
+(pdftex.def)             Requested size: 338.58632pt x 119.08443pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 11.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<Picture1.png, id=8, 130.98938pt x 139.27031pt>
+File: Picture1.png Graphic file (type png)
+<use Picture1.png>
+Package pdftex.def Info: Picture1.png  used on input line 18.
+(pdftex.def)             Requested size: 142.26378pt x 151.26184pt.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 25.
+[1
+
+
+
+{C:/Users/USER/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <d:/Hot-Plate/Report/ENTC.png> <d:/Hot-Plate/Report/Picture1.png>] [2
+
+
+])
+Package tocbasic Info: character protrusion at toc deactivated on input line 111.
+\tf@toc=\write6
+\openout6 = `Main.toc'.
+
+ [3
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 112.
+\tf@lof=\write7
+\openout7 = `Main.lof'.
+
+ [4
+
+] (d:/Hot-Plate\Report\chapters.tex
+chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface.
+
+<Introduction/PiD .pdf, id=42, 557.20169pt x 169.5936pt>
+File: Introduction/PiD .pdf Graphic file (type pdf)
+<use Introduction/PiD .pdf>
+Package pdftex.def Info: Introduction/PiD .pdf  used on input line 17.
+(pdftex.def)             Requested size: 241.84843pt x 73.61217pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 18.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (7.5pt too wide) in paragraph at lines 17--18
+ [] 
+ []
+
+
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/Introduction/pt100 range updated-cropped.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Introduction/pt100 range updated-cropped.pdf, id=43, 439.02019pt x 176.91093pt>
+File: Introduction/pt100 range updated-cropped.pdf Graphic file (type pdf)
+<use Introduction/pt100 range updated-cropped.pdf>
+Package pdftex.def Info: Introduction/pt100 range updated-cropped.pdf  used on input line 25.
+(pdftex.def)             Requested size: 241.84843pt x 97.45517pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 26.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (7.5pt too wide) in paragraph at lines 25--26
+ [] 
+ []
+
+chapter 2.
+<Method/Block diagram.pdf, id=44, 391.4625pt x 250.0542pt>
+File: Method/Block diagram.pdf Graphic file (type pdf)
+<use Method/Block diagram.pdf>
+Package pdftex.def Info: Method/Block diagram.pdf  used on input line 40.
+(pdftex.def)             Requested size: 241.84843pt x 154.48637pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 41.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (18.45003pt too wide) in paragraph at lines 37--43
+[]$[]$ 
+ []
+
+[1
+
+
+ <d:/Hot-Plate/Report/Introduction/PiD .pdf> <d:/Hot-Plate/Report/Introduction/pt100 range updated-cropped.pdf> <d:/Hot-Plate/Report/Method/Block diagram.pdf>]
+<Method/Power supply.pdf, id=108, 353.40028pt x 415.5525pt>
+File: Method/Power supply.pdf Graphic file (type pdf)
+<use Method/Power supply.pdf>
+Package pdftex.def Info: Method/Power supply.pdf  used on input line 53.
+(pdftex.def)             Requested size: 217.66211pt x 255.94688pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 54.
+See the caption package documentation for explanation.
+
+<Method/Ze_Area Pluse.drawio.pdf, id=109, 380.42125pt x 286.06876pt>
+File: Method/Ze_Area Pluse.drawio.pdf Graphic file (type pdf)
+<use Method/Ze_Area Pluse.drawio.pdf>
+Package pdftex.def Info: Method/Ze_Area Pluse.drawio.pdf  used on input line 71.
+(pdftex.def)             Requested size: 217.66211pt x 163.68071pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 72.
+See the caption package documentation for explanation.
+
+
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/Method/Zero-ramp function.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Method/Zero-ramp function.pdf, id=110, 275.34871pt x 77.8107pt>
+File: Method/Zero-ramp function.pdf Graphic file (type pdf)
+<use Method/Zero-ramp function.pdf>
+Package pdftex.def Info: Method/Zero-ramp function.pdf  used on input line 77.
+(pdftex.def)             Requested size: 217.66211pt x 61.50894pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 78.
+See the caption package documentation for explanation.
+
+[2 <d:/Hot-Plate/Report/Method/Power supply.pdf> <d:/Hot-Plate/Report/Method/Ze_Area Pluse.drawio.pdf> <d:/Hot-Plate/Report/Method/Zero-ramp function.pdf>]
+<Method/LM339.pdf, id=159, 157.55864pt x 147.84233pt>
+File: Method/LM339.pdf Graphic file (type pdf)
+<use Method/LM339.pdf>
+Package pdftex.def Info: Method/LM339.pdf  used on input line 86.
+(pdftex.def)             Requested size: 130.59859pt x 122.55342pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 87.
+See the caption package documentation for explanation.
+
+<Method/Ramp gen cropped.pdf, id=160, 344.2461pt x 240.9pt>
+File: Method/Ramp gen cropped.pdf Graphic file (type pdf)
+<use Method/Ramp gen cropped.pdf>
+Package pdftex.def Info: Method/Ramp gen cropped.pdf  used on input line 99.
+(pdftex.def)             Requested size: 217.66211pt x 152.31917pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 100.
+See the caption package documentation for explanation.
+
+<Method/Zero-ramp function with ramp.pdf, id=161, 393.05782pt x 107.94781pt>
+File: Method/Zero-ramp function with ramp.pdf Graphic file (type pdf)
+<use Method/Zero-ramp function with ramp.pdf>
+Package pdftex.def Info: Method/Zero-ramp function with ramp.pdf  used on input line 107.
+(pdftex.def)             Requested size: 217.66211pt x 59.77832pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 108.
+See the caption package documentation for explanation.
+
+
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/Method/PWM width controller circuit.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Method/PWM width controller circuit.pdf, id=162, 250.23488pt x 204.9256pt>
+File: Method/PWM width controller circuit.pdf Graphic file (type pdf)
+<use Method/PWM width controller circuit.pdf>
+Package pdftex.def Info: Method/PWM width controller circuit.pdf  used on input line 116.
+(pdftex.def)             Requested size: 217.66211pt x 178.2588pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 117.
+See the caption package documentation for explanation.
+
+<Method/PWM Genration from ramp graph.pdf, id=163, 552.40509pt x 189.72366pt>
+File: Method/PWM Genration from ramp graph.pdf Graphic file (type pdf)
+<use Method/PWM Genration from ramp graph.pdf>
+Package pdftex.def Info: Method/PWM Genration from ramp graph.pdf  used on input line 125.
+(pdftex.def)             Requested size: 217.66211pt x 74.75618pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 126.
+See the caption package documentation for explanation.
+
+<ramp 2.jpg, id=164, 1687.30376pt x 1084.05pt>
+File: ramp 2.jpg Graphic file (type jpg)
+<use ramp 2.jpg>
+Package pdftex.def Info: ramp 2.jpg  used on input line 131.
+(pdftex.def)             Requested size: 217.66211pt x 139.83972pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 132.
+See the caption package documentation for explanation.
+
+[3 <d:/Hot-Plate/Report/Method/LM339.pdf> <d:/Hot-Plate/Report/Method/Ramp gen cropped.pdf> <d:/Hot-Plate/Report/Method/Zero-ramp function with ramp.pdf> <d:/Hot-Plate/Report/Method/PWM width controller circuit.pdf> <d:/Hot-Plate/Report/Method/PWM Genration from ramp graph.pdf
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/Method/PWM Genration from ramp graph.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+d:/Hot-Plate\Report\chapters.tex:148: Missing $ inserted.
+<inserted text> 
+                $
+l.148  }
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/Method/pt100 curve.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Method/pt100 curve.pdf, id=308, 484.9618pt x 218.56656pt>
+File: Method/pt100 curve.pdf Graphic file (type pdf)
+<use Method/pt100 curve.pdf>
+Package pdftex.def Info: Method/pt100 curve.pdf  used on input line 158.
+(pdftex.def)             Requested size: 217.66211pt x 98.09724pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 159.
+See the caption package documentation for explanation.
+
+<Method/Constant current.pdf, id=309, 391.4625pt x 293.1753pt>
+File: Method/Constant current.pdf Graphic file (type pdf)
+<use Method/Constant current.pdf>
+Package pdftex.def Info: Method/Constant current.pdf  used on input line 170.
+(pdftex.def)             Requested size: 217.66211pt x 163.01393pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 171.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[][][]|[]\OT1/cmr/m/n/10.95 (+20) Improved How-land Cur-rent
+ []
+
+[4 <d:/Hot-Plate/Report/ramp 2.jpg> <d:/Hot-Plate/Report/Method/pt100 curve.pdf> <d:/Hot-Plate/Report/Method/Constant current.pdf>]
+<Method/ins.pdf, id=345, 688.49219pt x 430.48831pt>
+File: Method/ins.pdf Graphic file (type pdf)
+<use Method/ins.pdf>
+Package pdftex.def Info: Method/ins.pdf  used on input line 191.
+(pdftex.def)             Requested size: 217.66211pt x 136.09062pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 192.
+See the caption package documentation for explanation.
+
+<Method/Scalers.pdf, id=346, 322.32419pt x 366.40887pt>
+File: Method/Scalers.pdf Graphic file (type pdf)
+<use Method/Scalers.pdf>
+Package pdftex.def Info: Method/Scalers.pdf  used on input line 210.
+(pdftex.def)             Requested size: 217.66211pt x 247.43831pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 211.
+See the caption package documentation for explanation.
+
+[5 <d:/Hot-Plate/Report/Method/ins.pdf> <d:/Hot-Plate/Report/Method/Scalers.pdf>]
+<PID/P.pdf, id=378, 283.0575pt x 268.12169pt>
+File: PID/P.pdf Graphic file (type pdf)
+<use PID/P.pdf>
+Package pdftex.def Info: PID/P.pdf  used on input line 233.
+(pdftex.def)             Requested size: 217.66211pt x 206.18022pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 234.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--248
+
+ []
+
+<PID/PID_varyingP.jpg, id=379, 444.91219pt x 344.78813pt>
+File: PID/PID_varyingP.jpg Graphic file (type jpg)
+<use PID/PID_varyingP.jpg>
+Package pdftex.def Info: PID/PID_varyingP.jpg  used on input line 251.
+(pdftex.def)             Requested size: 217.66211pt x 168.67934pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 252.
+See the caption package documentation for explanation.
+
+<PID/I.pdf, id=380, 290.0436pt x 284.98468pt>
+File: PID/I.pdf Graphic file (type pdf)
+<use PID/I.pdf>
+Package pdftex.def Info: PID/I.pdf  used on input line 259.
+(pdftex.def)             Requested size: 217.66211pt x 213.87279pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 260.
+See the caption package documentation for explanation.
+
+[6 <d:/Hot-Plate/Report/PID/P.pdf> <d:/Hot-Plate/Report/PID/PID_varyingP.jpg>]
+<PID/Change_with_Ki.png, id=402, 466.74374pt x 368.37625pt>
+File: PID/Change_with_Ki.png Graphic file (type png)
+<use PID/Change_with_Ki.png>
+Package pdftex.def Info: PID/Change_with_Ki.png  used on input line 273.
+(pdftex.def)             Requested size: 217.66211pt x 171.78783pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 274.
+See the caption package documentation for explanation.
+
+<PID/D.pdf, id=403, 282.0939pt x 268.12169pt>
+File: PID/D.pdf Graphic file (type pdf)
+<use PID/D.pdf>
+Package pdftex.def Info: PID/D.pdf  used on input line 282.
+(pdftex.def)             Requested size: 217.66211pt x 206.89209pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 283.
+See the caption package documentation for explanation.
+
+<PID/Change_with_Kd.png, id=404, 466.74374pt x 369.38pt>
+File: PID/Change_with_Kd.png Graphic file (type png)
+<use PID/Change_with_Kd.png>
+Package pdftex.def Info: PID/Change_with_Kd.png  used on input line 295.
+(pdftex.def)             Requested size: 217.66211pt x 172.2559pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 296.
+See the caption package documentation for explanation.
+
+[7 <d:/Hot-Plate/Report/PID/I.pdf> <d:/Hot-Plate/Report/PID/Change_with_Ki.png> <d:/Hot-Plate/Report/PID/D.pdf>]
+<PID/PID_Master_Graph.png, id=436, 702.625pt x 451.6875pt>
+File: PID/PID_Master_Graph.png Graphic file (type png)
+<use PID/PID_Master_Graph.png>
+Package pdftex.def Info: PID/PID_Master_Graph.png  used on input line 304.
+(pdftex.def)             Requested size: 217.66211pt x 139.92519pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 305.
+See the caption package documentation for explanation.
+
+<Method/Triac Cct.pdf, id=437, 377.49028pt x 258.9675pt>
+File: Method/Triac Cct.pdf Graphic file (type pdf)
+<use Method/Triac Cct.pdf>
+Package pdftex.def Info: Method/Triac Cct.pdf  used on input line 313.
+(pdftex.def)             Requested size: 217.66211pt x 149.32005pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 314.
+See the caption package documentation for explanation.
+
+<trig angle.png, id=438, 752.8125pt x 501.875pt>
+File: trig angle.png Graphic file (type png)
+<use trig angle.png>
+Package pdftex.def Info: trig angle.png  used on input line 328.
+(pdftex.def)             Requested size: 217.66211pt x 145.10352pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 329.
+See the caption package documentation for explanation.
+
+<Triac oc.jpg, id=439, 2924.9275pt x 2200.22pt>
+File: Triac oc.jpg Graphic file (type jpg)
+<use Triac oc.jpg>
+Package pdftex.def Info: Triac oc.jpg  used on input line 334.
+(pdftex.def)             Requested size: 217.66211pt x 163.70004pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 335.
+See the caption package documentation for explanation.
+
+[8 <d:/Hot-Plate/Report/PID/Change_with_Kd.png> <d:/Hot-Plate/Report/PID/PID_Master_Graph.png> <d:/Hot-Plate/Report/Method/Triac Cct.pdf> <d:/Hot-Plate/Report/trig angle.png>]
+chapter 3.
+<PCB fabricated/Final.jpg, id=517, 4047.12pt x 2745.25626pt>
+File: PCB fabricated/Final.jpg Graphic file (type jpg)
+<use PCB fabricated/Final.jpg>
+Package pdftex.def Info: PCB fabricated/Final.jpg  used on input line 350.
+(pdftex.def)             Requested size: 217.66211pt x 147.61748pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 351.
+See the caption package documentation for explanation.
+
+<PCB fabricated/triac_cct.jpg, id=518, 4641.34pt x 2291.56125pt>
+File: PCB fabricated/triac_cct.jpg Graphic file (type jpg)
+<use PCB fabricated/triac_cct.jpg>
+Package pdftex.def Info: PCB fabricated/triac_cct.jpg  used on input line 356.
+(pdftex.def)             Requested size: 217.66211pt x 107.45163pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 357.
+See the caption package documentation for explanation.
+
+<PCB fabricated/pcb2.jpg, id=519, 2427.0675pt x 2309.62875pt>
+File: PCB fabricated/pcb2.jpg Graphic file (type jpg)
+<use PCB fabricated/pcb2.jpg>
+Package pdftex.def Info: PCB fabricated/pcb2.jpg  used on input line 362.
+(pdftex.def)             Requested size: 217.66211pt x 207.11754pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 363.
+See the caption package documentation for explanation.
+
+<PCB fabricated/pcb1.jpg, id=520, 2506.36375pt x 2367.84625pt>
+File: PCB fabricated/pcb1.jpg Graphic file (type jpg)
+<use PCB fabricated/pcb1.jpg>
+Package pdftex.def Info: PCB fabricated/pcb1.jpg  used on input line 368.
+(pdftex.def)             Requested size: 217.66211pt x 205.61798pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 369.
+See the caption package documentation for explanation.
+
+chapter 4.
+[9 <d:/Hot-Plate/Report/Triac oc.jpg> <d:/Hot-Plate/Report/PCB fabricated/Final.jpg> <d:/Hot-Plate/Report/PCB fabricated/triac_cct.jpg> <d:/Hot-Plate/Report/PCB fabricated/pcb2.jpg>]
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 389--400
+ [] 
+ []
+
+) (d:/Hot-Plate\Report\appendix.tex [10 <d:/Hot-Plate/Report/PCB fabricated/pcb1.jpg>]
+chapter 5.
+<PCB fabricated/PCB2.pdf, id=541, page=1, 794.97pt x 614.295pt>
+File: PCB fabricated/PCB2.pdf Graphic file (type pdf)
+<use PCB fabricated/PCB2.pdf, page 1>
+Package pdftex.def Info: PCB fabricated/PCB2.pdf , page1 used on input line 14.
+(pdftex.def)             Requested size: 483.69687pt x 373.77269pt.
+<PCB fabricated/PCB1.pdf, id=542, page=1, 794.97pt x 614.295pt>
+File: PCB fabricated/PCB1.pdf Graphic file (type pdf)
+<use PCB fabricated/PCB1.pdf, page 1>
+Package pdftex.def Info: PCB fabricated/PCB1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 483.69687pt x 373.77269pt.
+
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/PCB fabricated/schematic.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<PCB fabricated/schematic.pdf, id=543, page=1, 489.90027pt x 614.295pt>
+File: PCB fabricated/schematic.pdf Graphic file (type pdf)
+<use PCB fabricated/schematic.pdf, page 1>
+Package pdftex.def Info: PCB fabricated/schematic.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 483.69687pt x 606.5417pt.
+[11
+
+ <d:/Hot-Plate/Report/PCB fabricated/PCB2.pdf>] [12 <d:/Hot-Plate/Report/PCB fabricated/PCB1.pdf>] [13 <d:/Hot-Plate/Report/PCB fabricated/schematic.pdf>]
+
+pdfTeX warning: pdflatex (file d:/Hot-Plate/Report/PCB fabricated/proteus.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<PCB fabricated/proteus.pdf, id=597, page=1, 614.295pt x 794.97pt>
+File: PCB fabricated/proteus.pdf Graphic file (type pdf)
+<use PCB fabricated/proteus.pdf, page 1>
+Package pdftex.def Info: PCB fabricated/proteus.pdf , page1 used on input line 34.
+(pdftex.def)             Requested size: 411.14528pt x 532.06915pt.
+[14
+
+ <d:/Hot-Plate/Report/PCB fabricated/proteus.pdf>]
+<Enclosure/01969125-4170-495c-98ca-1aa0abf50a48 - Copy.JPG, id=630, 671.50874pt x 408.92775pt>
+File: Enclosure/01969125-4170-495c-98ca-1aa0abf50a48 - Copy.JPG Graphic file (type jpg)
+<use Enclosure/01969125-4170-495c-98ca-1aa0abf50a48 - Copy.JPG>
+Package pdftex.def Info: Enclosure/01969125-4170-495c-98ca-1aa0abf50a48 - Copy.JPG  used on input line 45.
+(pdftex.def)             Requested size: 229.75896pt x 139.91339pt.
+<Enclosure/16bace9b-620b-4e5d-a89f-7e68709594fe.JPG, id=631, 683.55376pt x 420.97275pt>
+File: Enclosure/16bace9b-620b-4e5d-a89f-7e68709594fe.JPG Graphic file (type jpg)
+<use Enclosure/16bace9b-620b-4e5d-a89f-7e68709594fe.JPG>
+Package pdftex.def Info: Enclosure/16bace9b-620b-4e5d-a89f-7e68709594fe.JPG  used on input line 50.
+(pdftex.def)             Requested size: 229.75896pt x 141.49725pt.
+<Enclosure/9b6e8738-6aa5-4382-9c02-1e854646a67c.JPG, id=632, 502.87875pt x 263.18324pt>
+File: Enclosure/9b6e8738-6aa5-4382-9c02-1e854646a67c.JPG Graphic file (type jpg)
+<use Enclosure/9b6e8738-6aa5-4382-9c02-1e854646a67c.JPG>
+Package pdftex.def Info: Enclosure/9b6e8738-6aa5-4382-9c02-1e854646a67c.JPG  used on input line 56.
+(pdftex.def)             Requested size: 229.75896pt x 120.24251pt.
+<Enclosure/e37a053d-cc5b-4a5f-88a6-e2852106d6c8.JPG, id=633, 360.1455pt x 378.81525pt>
+File: Enclosure/e37a053d-cc5b-4a5f-88a6-e2852106d6c8.JPG Graphic file (type jpg)
+<use Enclosure/e37a053d-cc5b-4a5f-88a6-e2852106d6c8.JPG>
+Package pdftex.def Info: Enclosure/e37a053d-cc5b-4a5f-88a6-e2852106d6c8.JPG  used on input line 62.
+(pdftex.def)             Requested size: 229.75896pt x 241.67215pt.
+)
+
+LaTeX Warning: Empty bibliography on input line 121.
+
+<datasheet.pdf, id=634, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf>
+Package pdftex.def Info: datasheet.pdf  used on input line 122.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf>
+Package pdftex.def Info: datasheet.pdf  used on input line 122.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<datasheet.pdf, id=637, page=1, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 1>
+Package pdftex.def Info: datasheet.pdf , page1 used on input line 122.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 1>
+Package pdftex.def Info: datasheet.pdf , page1 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[15 <d:/Hot-Plate/Report/Enclosure/01969125-4170-495c-98ca-1aa0abf50a48 - Copy.JPG> <d:/Hot-Plate/Report/Enclosure/16bace9b-620b-4e5d-a89f-7e68709594fe.JPG> <d:/Hot-Plate/Report/Enclosure/9b6e8738-6aa5-4382-9c02-1e854646a67c.JPG> <d:/Hot-Plate/Report/Enclosure/e37a053d-cc5b-4a5f-88a6-e2852106d6c8.JPG>]
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 1>
+Package pdftex.def Info: datasheet.pdf , page1 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 1>
+Package pdftex.def Info: datasheet.pdf , page1 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 1>
+Package pdftex.def Info: datasheet.pdf , page1 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [16 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=690, page=2, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 2>
+Package pdftex.def Info: datasheet.pdf , page2 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 2>
+Package pdftex.def Info: datasheet.pdf , page2 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 2>
+Package pdftex.def Info: datasheet.pdf , page2 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [17 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=701, page=3, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 3>
+Package pdftex.def Info: datasheet.pdf , page3 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 3>
+Package pdftex.def Info: datasheet.pdf , page3 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 3>
+Package pdftex.def Info: datasheet.pdf , page3 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [18 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=753, page=4, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 4>
+Package pdftex.def Info: datasheet.pdf , page4 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 4>
+Package pdftex.def Info: datasheet.pdf , page4 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 4>
+Package pdftex.def Info: datasheet.pdf , page4 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [19 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=772, page=5, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 5>
+Package pdftex.def Info: datasheet.pdf , page5 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 5>
+Package pdftex.def Info: datasheet.pdf , page5 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 5>
+Package pdftex.def Info: datasheet.pdf , page5 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [20 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=793, page=6, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 6>
+Package pdftex.def Info: datasheet.pdf , page6 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 6>
+Package pdftex.def Info: datasheet.pdf , page6 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 6>
+Package pdftex.def Info: datasheet.pdf , page6 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [21 <d:/Hot-Plate/Report/datasheet.pdf>]
+<datasheet.pdf, id=802, page=7, 597.50829pt x 845.0471pt>
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 7>
+Package pdftex.def Info: datasheet.pdf , page7 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 7>
+Package pdftex.def Info: datasheet.pdf , page7 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: datasheet.pdf Graphic file (type pdf)
+<use datasheet.pdf, page 7>
+Package pdftex.def Info: datasheet.pdf , page7 used on input line 122.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [22 <d:/Hot-Plate/Report/datasheet.pdf>] [23] (d:/Hot-Plate\Report\Main.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+LaTeX Warning: Temporary extra page added at the end. Rerun to get it removed.
+
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'Main.run.xml'.
+\openout1 = `Main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27847 strings out of 479618
+ 536763 string characters out of 2865501
+ 1541051 words of memory out of 3000000
+ 44337 multiletter control sequences out of 15000+200000
+ 417583 words of font info for 140 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,17n,116p,10641b,807s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\USER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on d:/Hot-Plate\Report\Main.pdf (27 pages, 19202908 bytes).
+PDF statistics:
+ 960 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 47551 words of extra memory for PDF output out of 51595 (max. 10000000)
+
